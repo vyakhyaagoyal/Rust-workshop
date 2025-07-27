@@ -11,7 +11,7 @@
 
 fn main() {
   let a: i32 = 10;
-  let b = 20;';
+  let b = 20;
   let sum = do_sum(a, b); // Call the function with arguments
   println!("Sum of {} and {} = {}", a, b, sum);
 }
